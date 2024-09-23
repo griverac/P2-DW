@@ -73,7 +73,7 @@ const eliminarPrestamo = async (req, res) => {
         res.status(500).json({ error: 'Error al eliminar el préstamo.' });
     }
 };
-
+/*par2*/
 module.exports = {
     obtenerPrestamos,
     obtenerPrestamoPorNumero,
