@@ -30,3 +30,4 @@ const Prestamo = sequelize.define('Prestamo', {
 });
 
 module.exports = Prestamo;
+/*par2*/

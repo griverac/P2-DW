@@ -18,3 +18,4 @@ router.put('/:numero', prestamosController.actualizarPrestamo);
 router.delete('/:numero', prestamosController.eliminarPrestamo);
 
 module.exports = router;
+/*par2*/
