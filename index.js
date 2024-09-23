@@ -15,3 +15,4 @@ sequelize.sync().then(() => {
 }).catch(err => {
     console.error('No se pudo conectar a la base de datos:', err);
 });
+/*par2*/
